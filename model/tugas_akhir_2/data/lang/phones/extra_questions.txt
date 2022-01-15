@@ -1,0 +1,9 @@
+<oov>_B A_B AI_B AU_B B_B C_B D_B E_B EE_B F_B G_B H_B I_B J_B K_B KH_B L_B M_B N_B NG_B NY_B O_B OI_B P_B R_B S_B SY_B T_B U_B V_B W_B Y_B Z_B 
+<oov>_E A_E AI_E AU_E B_E C_E D_E E_E EE_E F_E G_E H_E I_E J_E K_E KH_E L_E M_E N_E NG_E NY_E O_E OI_E P_E R_E S_E SY_E T_E U_E V_E W_E Y_E Z_E 
+<oov>_I A_I AI_I AU_I B_I C_I D_I E_I EE_I F_I G_I H_I I_I J_I K_I KH_I L_I M_I N_I NG_I NY_I O_I OI_I P_I R_I S_I SY_I T_I U_I V_I W_I Y_I Z_I 
+<oov>_S A_S AI_S AU_S B_S C_S D_S E_S EE_S F_S G_S H_S I_S J_S K_S KH_S L_S M_S N_S NG_S NY_S O_S OI_S P_S R_S S_S SY_S T_S U_S V_S W_S Y_S Z_S 
+SIL oov 
+SIL_B oov_B 
+SIL_E oov_E 
+SIL_I oov_I 
+SIL_S oov_S 

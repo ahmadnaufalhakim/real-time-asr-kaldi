@@ -1,0 +1,35 @@
+shared split SIL SIL_B SIL_E SIL_I SIL_S
+shared split oov oov_B oov_E oov_I oov_S
+shared split <oov>_B <oov>_E <oov>_I <oov>_S
+shared split A_B A_E A_I A_S
+shared split AI_B AI_E AI_I AI_S
+shared split AU_B AU_E AU_I AU_S
+shared split B_B B_E B_I B_S
+shared split C_B C_E C_I C_S
+shared split D_B D_E D_I D_S
+shared split E_B E_E E_I E_S
+shared split EE_B EE_E EE_I EE_S
+shared split F_B F_E F_I F_S
+shared split G_B G_E G_I G_S
+shared split H_B H_E H_I H_S
+shared split I_B I_E I_I I_S
+shared split J_B J_E J_I J_S
+shared split K_B K_E K_I K_S
+shared split KH_B KH_E KH_I KH_S
+shared split L_B L_E L_I L_S
+shared split M_B M_E M_I M_S
+shared split N_B N_E N_I N_S
+shared split NG_B NG_E NG_I NG_S
+shared split NY_B NY_E NY_I NY_S
+shared split O_B O_E O_I O_S
+shared split OI_B OI_E OI_I OI_S
+shared split P_B P_E P_I P_S
+shared split R_B R_E R_I R_S
+shared split S_B S_E S_I S_S
+shared split SY_B SY_E SY_I SY_S
+shared split T_B T_E T_I T_S
+shared split U_B U_E U_I U_S
+shared split V_B V_E V_I V_S
+shared split W_B W_E W_I W_S
+shared split Y_B Y_E Y_I Y_S
+shared split Z_B Z_E Z_I Z_S
